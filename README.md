@@ -4,26 +4,19 @@
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
 ![project](https://user-images.githubusercontent.com/101364762/197880398-665a46b7-29a9-4053-bc19-a0cb45121b6c.png)
 
 ![Rocketpay e mais 8 páginas - Pessoal — Microsoft​ Edge 25_10_2022 16_59_35](https://user-images.githubusercontent.com/101364762/197880392-4dcc537f-8892-4753-9606-d33c2b1ed6be.png)
 
 ![Rocketpay e mais 8 páginas - Pessoal — Microsoft​ Edge 25_10_2022 16_59_19](https://user-images.githubusercontent.com/101364762/197880396-cd7219cf-b456-410a-8e73-13c0eefdcf6f.png)
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-
 
 ## 🚀 Tecnologias
 
