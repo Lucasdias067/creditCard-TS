@@ -14,9 +14,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 ![project](https://user-images.githubusercontent.com/101364762/197880398-665a46b7-29a9-4053-bc19-a0cb45121b6c.png)
 
-![Rocketpay e mais 8 páginas - Pessoal — Microsoft​ Edge 25_10_2022 16_59_35](https://user-images.githubusercontent.com/101364762/197880392-4dcc537f-8892-4753-9606-d33c2b1ed6be.png)
+![Rocketpay e mais 8 páginas - Pessoal — Microsoft​ Edge 25_10_2022 16_59_35](https://user-images.githubusercontent.com/101364762/197881355-3db099ca-8aae-4b69-bdce-c5e7bdcc4d2b.png)
+![Rocketpay e mais 8 páginas - Pessoal — Microsoft​ Edge 25_10_2022 18_01_37](https://user-images.githubusercontent.com/101364762/197881361-b467d5e1-27ac-4a52-aff6-66fd3f6d40e9.png)
 
-![Rocketpay e mais 8 páginas - Pessoal — Microsoft​ Edge 25_10_2022 16_59_19](https://user-images.githubusercontent.com/101364762/197880396-cd7219cf-b456-410a-8e73-13c0eefdcf6f.png)
 
 ## 🚀 Tecnologias
 
