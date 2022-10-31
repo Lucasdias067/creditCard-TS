@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Explorer Lab - Credit Card </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
